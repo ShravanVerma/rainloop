@@ -21,7 +21,7 @@
     "sort-packages": true
   },
   "require": {
-    "php": "^7.3",
+    "php": "^8.2",
     "imscp/composer-installers": "^1.0"
   },
   "require-dev": {
